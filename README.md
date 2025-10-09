@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #f0fff0; padding: 20px; border-radius: 15px; position: relative; overflow: hidden;">
-  <img src="[https://assets-storage-prod.s3.amazonaws.com/external/b71b12b5-5550-48e0-a7d5-ae319804b08f/1715878411200_Universe_with_planets_and_stars_drawn_in_a_cartoon_style_with_a_dark_blue_ba-0.webp](https://i.pinimg.com/736x/80/7f/b5/807fb5c3c5efb50dd303ae17e242ac96.jpg)" alt="Pixel Space Background" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.3; z-index: 0; filter: grayscale(50%);">
+  <img src="https://i.pinimg.com/736x/80/7f/b5/807fb5c3c5efb50dd303ae17e242ac96.jpg" alt="Pixel Space Background" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.3; z-index: 0; filter: grayscale(50%);">
   <div style="position: relative; z-index: 1;">
     <a href="https://github.com/vonguyenhagiang">
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Chào+bạn!+Mình+là+Võ+Nguyễn+Hà+Giang;Sinh+viên+Công+nghệ+Đa+phương+tiện;Chào+mừng+đến+không+gian+sáng+tạo+của+mình!;" alt="Typing SVG" />
