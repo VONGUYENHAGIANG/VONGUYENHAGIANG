@@ -16,7 +16,7 @@
     <li>🔭 Hiện đang thực hiện một <strong>dự án thiết kế đa phương tiện</strong>.</li>
     <li>👯 Mong muốn hợp tác trong các <strong>sáng kiến công nghệ sáng tạo</strong>, đặc biệt là về thiết kế 2D/3D.</li>
     <li>💬 Hãy hỏi mình bất cứ điều gì liên quan đến thiết kế, hoạt hình, hoặc kể chuyện bằng hình ảnh nhé!</li>
-    <li>📫 Cách liên hệ với mình: <strong>s23dcpt074@student.ptithcm.edu.vn</strong></li>
+    <li>📫 Cách liên hệ với mình: <strong>nn23dcpt074@student.ptithcm.edu.vn</strong></li>
   </ul>
 </div>
 
@@ -42,15 +42,6 @@
 <div style="background-color: #f5fffa; padding: 20px; margin-top: 20px; border-radius: 10px; border-left: 5px solid #3CB371;">
   <h2 style="color: #2E8B57; border-bottom: 2px solid #98FB98;">💼 Kinh nghiệm</h2>
   
-  **Thực tập sinh Thiết kế Đa phương tiện** | _Creative Minds Agency_ | TP. Hồ Chí Minh
-  <br>
-  *Tháng 6, 2024 - Tháng 9, 2024*
-  <ul>
-    <li>Hỗ trợ các nhà thiết kế chính trong việc tạo ra các sản phẩm hình ảnh cho các chiến dịch marketing kỹ thuật số.</li>
-    <li>Đóng góp vào việc phát triển kịch bản phân cảnh (storyboard) và hoạt hình 2D cho các video quảng cáo.</li>
-    <li>Tích lũy kinh nghiệm thực tế với các công cụ quản lý dự án và quy trình tiếp nhận phản hồi từ khách hàng.</li>
-  </ul>
-
   **Nhà thiết kế đồ họa tự do** | _Tự làm việc_
   <br>
   *2023 - Hiện tại*
