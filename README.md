@@ -13,7 +13,7 @@
     <li>🔭 Hiện đang thực hiện một <strong>dự án thiết kế đa phương tiện</strong>.</li>
     <li>👯 Mong muốn hợp tác trong các <strong>sáng kiến công nghệ sáng tạo</strong>, đặc biệt là về thiết kế 2D/3D.</li>
     <li>💬 Hãy hỏi mình bất cứ điều gì liên quan đến thiết kế, hoạt hình, hoặc kể chuyện bằng hình ảnh nhé!</li>
-    <li>📫 Cách liên hệ với mình: <strong>s23dcpt074@student.ptithcm.edu.vn</strong></li>
+    <li>📫 Cách liên hệ với mình: <strong>n23dcpt074@student.ptithcm.edu.vn</strong></li>
   </ul>
 </div>
 
